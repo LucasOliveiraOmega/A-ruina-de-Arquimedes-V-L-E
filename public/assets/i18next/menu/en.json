@@ -1,0 +1,30 @@
+{         
+    "DialogInicial": "Ann, what's that shaking?.",
+    
+    "START": "START",
+    "SETTING": "SETTINGS",
+    "CREDITS": "CREDITS",
+    "SETTINGS": "SETTINGS",
+    
+    "Back": "BACK",
+
+    "VOLUME": "VOLUME",
+    "IDIOMS": "LANGUAGES",
+    "VIDEO": "VIDEO",
+
+    "PORTUGUESE": "Portuguese",
+    "SPANISH": "Spanish",
+    "ENGLISH (USA)": "English (USA)",
+
+    "DALTONISM": "DALTONISM",
+
+    "Deuteranopia": "Deuteranopia",
+    "Protanopia": "Protanopia",
+    "Tritanopia": "Tritanopia",
+    "Monocromacia": "Monochromacy",
+    "No Filter": "No Filter",
+
+    "general": "General",
+    "music": "Music",
+    "creatures": "Creatures"
+}

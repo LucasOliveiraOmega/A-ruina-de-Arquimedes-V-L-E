@@ -1,0 +1,463 @@
+{
+   
+    "william_dialog_01": "",
+    "william_dialog_02": "",
+    "william_dialog_03": "",
+   
+    "whitecat_dialog_01": "",
+    "whitecat_dialog_02": "",
+    "whitecat_dialog_03": "",
+   
+    "vithor_dialog_01": "Estranho isso, as árvores cresceram de repente e bloquearam o caminho a frente.",
+    "arquimedes_vithor_dialog_01": "Como assim? Elas cresceram do dia pra noite?",
+    "vithor_dialog_02": "Olha eu não sou especialista em árvores mas... acho que elas não funcionam dessa maneira",
+    "vithor_dialog_03": "O engraçado que não ouvi nenhuma notícia da orla também. Estranho.",
+    "arquimedes_vithor_dialog_02": "Por acaso você sentiu um tremor estranho?",
+    "vithor_dialog_04": "Você sentiu também? Pensei que tinha sido algo estragado que o Darius comeu. Teve uma vez em que-",
+    "arquimedes_vithor_dialog_03": "Am... eu acho que não quero saber dos detalhes",
+   
+    "tomas_dialog_01": "",
+    "tomas_dialog_02": "",
+    "tomas_dialog_03": "",
+   
+    "tina_dialog_01": "",
+    "tina_dialog_02": "",
+    "tina_dialog_03": "",
+   
+    "thorne_dialog_01": "",
+    "thorne_dialog_02": "",
+    "thorne_dialog_03": "",
+   
+    "teodoro_dialog_01": "",
+    "teodoro_dialog_02": "",
+    "teodoro_dialog_03": "",
+   
+    "tadeu_dialog_01": "",
+    "tadeu_dialog_02": "",
+    "tadeu_dialog_03": "",
+   
+    "sophie_dialog_01": "",
+    "sophie_dialog_02": "",
+    "sophie_dialog_03": "",
+   
+    "simboletta_dialog_01": "",
+    "simboletta_dialog_02": "",
+    "simboletta_dialog_03": "",
+   
+    "selma_dialog_01": "",
+    "selma_dialog_02": "",
+    "selma_dialog_03": "",
+   
+    "salomao_dialog_01": "",
+    "salomao_dialog_02": "",
+    "salomao_dialog_03": "",
+   
+    "rosalind_dialog_01": "Dorme neném...",
+    "rosalind_dialog_02": "Uff... acho que finalmente fiz ele dormir.",
+    "arquimedes_rosalind_dialog_01": "Olá Rosalind! Como vai o seu net-",
+    "rosalind_baby": "UEEEEEEEEEEEEEEEEEEEEEEEEEGHHHHHHHHH",
+    "rosalind_dialog_03": "SABE QUANTAS MAMADEIRAS EU TIVE QUE DAR PRA ELE FINALMENTE DORMIR PRA VOCÊ VIR AQUI E-",
+    "arquimedes_rosalind_dialog_02": "É melhor eu ir.",
+   
+    "richard_dialog_01": "É impressão minha ou eu to vendo um cara verde dentuço?",
+    "richard_dialog_02": "E CARECA!? Quer dizer eu também sou mas...",
+    "richard_dialog_03": "Esse cara tem azar!",
+   
+    "raymond_dialog_01": "",
+    "raymond_dialog_02": "",
+    "raymond_dialog_03": "",
+   
+    "ragnar_dialog_01": "",
+    "ragnar_dialog_02": "",
+    "ragnar_dialog_03": "",
+   
+    "rafael_dialog_01": "",
+    "rafael_dialog_02": "",
+    "rafael_dialog_03": "",
+   
+    "radian_dialog_01": "",
+    "radian_dialog_02": "",
+    "radian_dialog_03": "",
+   
+    "poincare_dialog_01": "",
+    "poincare_dialog_02": "",
+    "poincare_dialog_03": "",
+   
+    "parabolico_dialog_01": "",
+    "parabolico_dialog_02": "",
+    "parabolico_dialog_03": "",
+   
+    "oscar_dialog_01": "",
+    "oscar_dialog_02": "",
+    "oscar_dialog_03": "",
+   
+    "oracio_dialog_01": "",
+    "oracio_dialog_02": "",
+    "oracio_dialog_03": "",
+   
+    "oliver_dialog_01": "",
+    "oliver_dialog_02": "",
+    "oliver_dialog_03": "",
+   
+    "nora_dialog_01": "",
+    "nora_dialog_02": "",
+    "nora_dialog_03": "",
+   
+    "noah_dialog_01": "",
+    "noah_dialog_02": "",
+    "noah_dialog_03": "",
+   
+    "newton_dialog_01": "",
+    "newton_dialog_02": "",
+    "newton_dialog_03": "",
+   
+    "miguel_dialog_01": "",
+    "miguel_dialog_02": "",
+    "miguel_dialog_03": "",
+   
+    "michael_dialog_01": "",
+    "michael_dialog_02": "",
+    "michael_dialog_03": "",
+   
+    "medionel_dialog_01": "",
+    "medionel_dialog_02": "",
+    "medionel_dialog_03": "",
+   
+    "mathson_dialog_01": "",
+    "mathson_dialog_02": "",
+    "mathson_dialog_03": "",
+   
+    "matheus_dialog_01": "",
+    "matheus_dialog_02": "",
+    "matheus_dialog_03": "",
+   
+    "marina_dialog_01": "",
+    "marina_dialog_02": "",
+    "marina_dialog_03": "",
+   
+    "manuel_comida_dialog_01": "",
+    "manuel_comida_dialog_02": "",
+    "manuel_comida_dialog_03": "",
+   
+    "manuel_dialog_01": "",
+    "manuel_dialog_02": "",
+    "manuel_dialog_03": "",
+   
+    "magnus_dialog_01": "",
+    "magnus_dialog_02": "",
+    "magnus_dialog_03": "",
+   
+    "madalena_dialog_01": "",
+    "madalena_dialog_02": "",
+    "madalena_dialog_03": "",
+   
+    "lyra_dialog_01": "",
+    "lyra_dialog_02": "",
+    "lyra_dialog_03": "",
+   
+    "luke_dialog_01": "",
+    "luke_dialog_02": "",
+    "luke_dialog_03": "",
+   
+    "lorena_dialog_01": "",
+    "lorena_dialog_02": "",
+    "lorena_dialog_03": "",
+   
+    "lina_dialog_01": "",
+    "lina_dialog_02": "",
+    "lina_dialog_03": "",
+   
+    "lily_dialog_01": "",
+    "lily_dialog_02": "",
+    "lily_dialog_03": "",
+   
+    "liam_dialog_01": "",
+    "liam_dialog_02": "",
+    "liam_dialog_03": "",
+   
+    "legolas_dialog_01": "",
+    "legolas_dialog_02": "",
+    "legolas_dialog_03": "",
+   
+    "laura_dialog_01": "",
+    "laura_dialog_02": "",
+    "laura_dialog_03": "",
+   
+    "lara_dialog_01": "",
+    "lara_dialog_02": "",
+    "lara_dialog_03": "",
+   
+    "laila_dialog_01": "",
+    "laila_dialog_02": "",
+    "laila_dialog_03": "",
+   
+    "kael_dialog_01": "",
+    "kael_dialog_02": "",
+    "kael_dialog_03": "",
+   
+    "jose_dialog_01": "",
+    "jose_dialog_02": "",
+    "jose_dialog_03": "",
+   
+    "jeronimo_dialog_01": "",
+    "jeronimo_dialog_02": "",
+    "jeronimo_dialog_03": "",
+   
+    "isaac_dialog_01": "",
+    "isaac_dialog_02": "",
+    "isaac_dialog_03": "",
+   
+    "irelene_dialog_01": "",
+    "irelene_dialog_02": "",
+    "irelene_dialog_03": "",
+   
+    "inara_dialog_01": "",
+    "inara_dialog_02": "",
+    "inara_dialog_03": "",
+   
+    "henova_dialog_01": "",
+    "henova_dialog_02": "",
+    "henova_dialog_03": "",
+   
+    "hans_dialog_01": "",
+    "hans_dialog_02": "",
+    "hans_dialog_03": "",
+   
+    "hannah_dialog_01": "",
+    "hannah_dialog_02": "",
+    "hannah_dialog_03": "",
+   
+    "gideon_dialog_01": "Meu caro Arquimedes, vejo que finalmente despertou.",
+    "arquimedes_gideon_dialog_01":"{Por que falam tanto disso, será que eu ronco tanto?}",
+    "arquimedes_gideon_dialog_02":"Olá Gideon, vim ver como estava.",
+    "gideon_dialog_02": "Aaaaah... estou bem.",
+    "arquimedes_gideon_dialog_03":"Gideon? Vamos lá, sei que você tá escondendo algo.",
+    "gideon_dialog_03": "Eu só estou andando mais confuso ultimamente. Esquecendo várias coisas, sabe?",
+    "arquimedes_gideon_dialog_04":"Esquecendo? Esquecendo o que?",
+    "gideon_dialog_04": "Antes eu sabia o mínimo de matemagia, a magia que manipula o mundo envolvendo matemática. Agora... nem sei como se calcula uma raíz quadrada.",
+    "arquimedes_gideon_dialog_05":"Isso é simples Gideon. É um número vezes ele mesmo. Tipo o 9, sua raíz quadrada é 3 por que 3 multíplicado por ele mesmo é 9!",
+    "gideon_dialog_05": "Obrigado Arquimedes. Estou um pouco melhor agora. Caso eu precise, eu lhe chamo.",
+   
+    "geometrina_dialog_01": "",
+    "geometrina_dialog_02": "",
+    "geometrina_dialog_03": "",
+   
+    "geo_dialog_01": "",
+    "geo_dialog_02": "",
+    "geo_dialog_03": "",
+   
+    "fractalino_dialog_01": "",
+    "fractalino_dialog_02": "",
+    "fractalino_dialog_03": "",
+   
+    "flavio_dialog_01": "",
+    "flavio_dialog_02": "",
+    "flavio_dialog_03": "",
+   
+    "feilong_dialog_01": "",
+    "feilong_dialog_02": "",
+    "feilong_dialog_03": "",
+   
+    "edson_dialog_01": "",
+    "edson_dialog_02": "",
+    "edson_dialog_03": "",
+   
+    "dorothy_dialog_01": "",
+    "dorothy_dialog_02": "",
+    "dorothy_dialog_03": "",
+   
+    "darius_Ataque_dialog_01": "",
+    "darius_Ataque_dialog_02": "",
+    "darius_Ataque_dialog_03": "",
+   
+    "darius_dialog_01": "Darius ordenado a proteger vila",
+    "darius_dialog_02": "Darius protegeu outras vila, mas não sabe quantas resta",
+    "arquimedes_darius_dialog_01": "Você tem que proteger quantas vilas, Darius?",
+    "darius_dialog_03": "Am... cinco",
+    "arquimedes_darius_dialog_02": "E quantas você já protegeu?",
+    "darius_dialog_04": "Duas",
+    "arquimedes_darius_dialog_03": "Então se foram duas de cinco vilas, isso significa que sobra...?",
+    "darius_dialog_05": "...",
+    "arquimedes_darius_dialog_04": "Se eu tirasse duas maçãs de você, você iria comer quantas?",
+    "darius_dialog_06": "Três...",
+    "arquimedes_darius_dialog_05": "Está ai Darius, essa é a sua resposta! Quando envolvem comida você acerta?",
+    "darius_dialog_07": "DARIUS ODEIA QUANDO ROUBAM COMIDA DE DARIUS!",
+    "arquimedes_darius_dialog_06": "...",
+
+    "dante_dialog_01": "",
+    "dante_dialog_02": "",
+    "dante_dialog_03": "",
+   
+    "daisy_dialog_01": "",
+    "daisy_dialog_02": "",
+    "daisy_dialog_03": "",
+   
+    "cornelia_dialog_01": "",
+    "cornelia_dialog_02": "",
+    "cornelia_dialog_03": "",
+   
+    "clarina_andando_dialog_01": "",
+    "clarina_andando_dialog_02": "",
+    "clarina_andando_dialog_03": "",
+   
+    "clarina_urso_dialog_01": "",
+    "clarina_urso_dialog_02": "",
+    "clarina_urso_dialog_03": "",
+   
+    "chloe_dialog_01": "",
+    "chloe_dialog_02": "",
+    "chloe_dialog_03": "",
+   
+    "catherine_dialog_01": "",
+    "catherine_dialog_02": "",
+    "catherine_dialog_03": "",
+    
+    "camila_dialog_01": "",
+    "camila_dialog_02": "",
+    "camila_dialog_03": "",
+    
+    "benjamin_dialog_01": "",
+    "benjamin_dialog_02": "",
+    "benjamin_dialog_03": "",
+
+    "baribaldo_dialog_01": "",
+    "baribaldo_dialog_02": "",
+    "baribaldo_dialog_03": "",
+
+    "augusto_dialog_01": "",
+    "augusto_dialog_02": "",
+    "augusto_dialog_03": "",
+
+    "amir_dialog_01": "",
+    "amir_dialog_02": "",
+    "amir_dialog_03": "",
+
+    "algebrina_dialog_01": "",
+    "algebrina_dialog_02": "",
+    "algebrina_dialog_03": "",
+
+    "alvoro_dialog_01": "",
+    "alvoro_dialog_02": "",
+    "alvoro_dialog_03": "",
+
+    "alfred_com_plato_dialog_01": "",
+    "alfred_com_plato_dialog_02": "",
+    "alfred_com_plato_dialog_03": "",
+
+    "alfred_dialog_01": "",
+    "alfred_dialog_02": "",
+    "alfred_dialog_03": "",
+
+    "alex_dialog_01": "",
+    "alex_dialog_02": "",
+    "alex_dialog_03": "",
+
+    "alcides_dialog_01": "",
+    "alcides_dialog_02": "",
+    "alcides_dialog_03": "",
+
+    "aisha_dialog_01": "",
+    "aisha_dialog_02": "",
+    "aisha_dialog_03": "",
+
+    "agnes_dialog_01": "",
+    "agnes_dialog_02": "",
+    "agnes_dialog_03": "",
+
+    "adimetica_dialog_01": "",
+    "adimetica_dialog_02": "",
+    "adimetica_dialog_03": "",
+   
+    "adam_dialog_01": "*Ugh* Acho que talvez eu tenha bebido demais...",
+    "arquimedes_adam_dialog_01": "Você... bebeu quantas vezes?",
+    "adam_dialog_02": "Quanto é 10 multiplicado por 20?",
+    "arquimedes_adam_dialog_02": "Você bebeu tudo isso?!",
+    "adam_dialog_03": "*Ugh* Que?! Queeem você pensa que eu sou seu miserável? Só queria saber mesmo",
+    "arquimedes_adam_dialog_03": "Ah... é 200 Adam...",
+    "adam_dialog_04": "Aaah, devo ter bebido o triplo disso aí então..",
+
+    "eva_dialog_01": "",
+    "eva_dialog_02": "",
+    "eva_dialog_03": "",
+
+    "clara_dialog_01": "",
+    "clara_dialog_02": "",
+    "clara_dialog_03": "",
+
+    "maximo_dialog_01": "",
+    "maximo_dialog_02": "",
+    "maximo_dialog_03": "",
+
+    "raizela_dialog_01": "",
+    "raizela_dialog_02": "",
+    "raizela_dialog_03": "",
+
+   
+    "teobauto_dialog_01": "",
+    "teobauto_dialog_02": "",
+    "teobauto_dialog_03": "",
+
+    "Bento_dialog_01": "Ei fi, tu que é o omi das musica e que mexe com os numero ao memo tempo?",
+    "Bento_dialog_02": "Sera que num tem como tu ensina os guri que fica atazanando por essas parte não?",
+    "Bento_dialog_03": "O jovi Bento aqui tem tempo pa essas criança virada do avesso mai não.",
+    "Bento_dialog_04": "E quem sabe nóis não toca junto? Eu no meu banjo e tu nesse teu trambique véio ai.",
+
+    "Richard_dialog_01": "Olá jovem viajante, tome cuidado a floresta é muito perigosa, os goblins passam por aqui.",
+    "Richard_dialog_02": "É meu trabalho patrulhar aos redores, sou um cavaleiro real, perdi tudo numa emboscada goblin.",
+    "Richard_dialog_03": "Provavelmente todos que estavam comigo...",
+    "Richard_dialog_04": "Enfim voltarei ao meu trabalho.",
+ 
+    "Ethan_dialog_01": "Olá Arquimedes, sabia que o diâmetro é a soma de dois raios de um círculo?",
+    "Ethan_dialog_02": "Aprendi isso com o Pietro, meu primo, ele é muito legal.",
+
+    "Pietro_dialog_01": "Ann, goblins matar, irei.",
+    "Pietro_dialog_02": "Fuja é impossivel derrotar eles, nem eu um cavaleiro real consegui, eles já tomaram grande parte de Siracusa.",
+ 
+    "vincent_dialog_01": "HaHaHa, os jovens de hoje não conseguem nem usar o minimo da matemágica",
+    "vincent_dialog_02": "Se você quer melhorar, encontre o Isaac, um velho amigo.",
+
+    "Balderson_dialog_01": "Arquimedes? Acordou mais cedo pelo visto.",
+    "Balderson_dialog_02": "Am... aproveitando que está aqui... ",
+    "Balderson_dialog_03": "Já sentiu um Deja Vu, ou se como estivesse sendo observado por algo que não consegue ver?",
+    "Balderson_dialog_04": "Digo, não sei, sinto como se eu estivesse nesse mesmo lugar e nessa mesma posição faz...",
+    "Balderson_dialog_05": "...",
+    "Balderson_dialog_06": "Enfim, devo estar ficando louco. Gostaria de uma bebida?",
+
+    "Maria_dialog_01": "Oh, Arquimedes!",
+    "Maria_dialog_02": "Não esperava vê-lo tão cedo, você normalmente dorme bastante",
+    "Maria_dialog_03": "Não repare na sujeira, estive limpando esse lugar faz um tempo agora.",
+    "Maria_dialog_04": "Já sabe como funciona, se quiser algo é só falar.",
+    "Maria_dialog_05": "Agora... aonde eu deixei aquela vassoura mesmo?",
+    "Maria_dialog_06": "Oh, tá na minha mão! Haha... ha... ",
+    "Maria_dialog_07": "... ",
+    "Maria_dialog_08": "Acho que eu deveria dormir...",
+
+    "John_dialog_01": "Ei, se não vai ajudar, recomendo ficar longe.",
+    "John_dialog_02": "Sem querer ser grosseiro, mas quando você fica nesse sol por sei lá quanto tempo fazendo a mesma coisa, você só se cansa sabe?",
+    "John_dialog_03": "Digo, ainda mais quando alguém {você} só fica te olhando fixamente enquanto você tá fazendo algo. Isso é esquisito cara.",
+   
+    "Jazz_dialog_01": "Sabe, bem que poderíamos tocar juntos um dia desses",
+    "Jazz_dialog_02": "Mas se o seu objetivo em tocar é atrair mulheres, esquece cara.",
+    "Jazz_dialog_03": "Só existe um músico aqui capaz de (tocar) o coração de uma dama, se é que você me entende.", 
+
+    "Laplace_dialog_01": "Sabe, carregar caixas é uma arte.",
+    "Laplace_dialog_02": "Um bardo como você não teria força para executar essa ação",
+    "Laplace_dialog_03": "Até o final da primavera vou estar com os braços maiores que essa sua cabeça.",
+    "arquimedes_laplace_dialog_01": "Se você diz...",
+    "Laplace_dialog_04": "Fica com essa sua matemagia ou sei lá o que, que eu fico com os músculos.",
+    "arquimedes_laplace_dialog_02": "Menos o cérebro...",
+    "Laplace_dialog_05": "O que disse?",
+    "arquimedes_laplace_dialog_03": "Nada!",
+
+    "andressa_dialog_01": "Arquimedes, você me acorda agora menino?!",
+    "arquimedes_andressa_dialog_01": "É bom te ver também Andressa. Pelo visto sempre colhendo flores.",
+    "andressa_dialog_02": "E pelo visto você sempre está dormindo.",
+    "arquimedes_andressa_dialog_02":"{Eu mereço isso...}",
+    "andressa_dialog_03": "Por acaso você sentiu um tremor mais cedo?",
+    "arquimedes_andressa_dialog_03":"Não, eu imaginei que você saberia me dizer. Ainda mais depois do incide-",
+    "andressa_dialog_04": "Nem comece. Você é jovem! Ande por aí e tente descobrir. Ficar parado nesse sol vai acabar te derretendo.",
+
+
+   "dog_dialog_01": "*au au amigável*",
+   "dog_dialog_02": "*Outro au au amigável, só que mais*"
+}

@@ -1,0 +1,106 @@
+{
+    "Bento_dialog_01": "Hey, you're the one who plays music and plays numbers at the same time?",
+    "Bento_dialog_02": "I wonder if you can teach the kids who keep bothering us around here?",
+    "Bento_dialog_03": "Young Bento here has time for these kids who are turned inside out, but no.",
+    "Bento_dialog_04": "And who knows, maybe we can play together? Me on my banjo and you on your old trick.",
+    
+    "richard_dialog_01": "É impressão minha ou eu to vendo um cara verde dentuço?",
+    "richard_dialog_02": "E CARECA!? Quer dizer eu também sou mas...",
+    "richard_dialog_03": "Esse cara tem azar!",
+
+    "rosalind_dialog_01": "Sleep baby...",
+    "rosalind_dialog_02": "Uff... I think I finally put him to sleep.",
+    "arquimedes_rosalind_dialog_01": "Hello Rosalind! How is your grands-",
+    "rosalind_baby": "UEEEEEEEEEEEEEEEEEEEEEEEGHHHHHHHHH",
+    "rosalind_dialog_03": "DO YOU KNOW HOW MANY BABY BOTTLES I HAD TO GIVE HIM TO FINALLY SLEEP SO YOU COULD COME HERE AND-",
+    "arquimedes_rosalind_dialog_02": "I better go.",
+    
+    "Ethan_dialog_01": "Hello Archimedes, did you know that the diameter is the sum of two radii of a circle?",
+    "Ethan_dialog_02": "I learned that from Pietro, my cousin, he's really cool.",
+    
+    "vithor_dialog_01": "That's strange, the trees suddenly grew and blocked the path ahead.",
+    "arquimedes_vithor_dialog_01": "What do you mean? They grew overnight?",
+    "vithor_dialog_02": "Look, I'm not an expert on trees but... I don't think they work that way",
+    "vithor_dialog_03": "Funny thing is that I haven't heard any news from the waterfront either. Strange.",
+    "arquimedes_vithor_dialog_02": "Did you happen to feel a strange tremor?",
+    "vithor_dialog_04": "Did you feel it too? I thought it was something bad that Darius ate. There was one time when-",
+    "arquimedes_vithor_dialog_03": "Um... I guess I don't want to know the details",
+    
+    "gideon_dialog_01": "My dear Arquimedes, i see you finally have waken up",
+    "arquimedes_gideon_dialog_01": "{Why do people talk about that a lot? Do i snore that much?}",
+    "arquimedes_gideon_dialog_02": "Hello Gideon, just making sure you are ok",
+    "gideon_dialog_02":"Aaaaah... i'm fine.",
+    "arquimedes_gideon_dialog_03": "Gideon? Come on, i know you are hiding something.",
+    "gideon_dialog_03":"I'm just getting more confused lately. Forgetting a ton of things, you know?",
+    "arquimedes_gideon_dialog_04": "Forgetting? Forgetting what?",
+    "gideon_dialog_04":"I knew a thing or two about Mathmagic before, the magic wich changes the world based on math. Now... i don't even know how to calculate a square root.",
+    "arquimedes_gideon_dialog_05": "That's simple Gideon. It's a number times itself. Like 9, its square root is 3 because 3 multiplied by itself is 9!",
+    "gideon_dialog_05":"Thank you Archimedes. I'm a little better now. If I need it, I'll call you.",
+
+    "darius_dialog_01": "Darius ordered to protect village",
+    "darius_dialog_02": "Darius protected other villages, but he doesn't know how many are left",
+    "arquimedes_darius_dialog_01": "How many villages do you have to protect, Darius?",
+    "darius_dialog_03": "Oh... five",
+    "arquimedes_darius_dialog_02": "And how many have you protected?",
+    "darius_dialog_04": "Two",
+    "arquimedes_darius_dialog_03": "So if two out of five villages were gone, does that mean there are left...?",
+    "darius_dialog_05": "...",
+    "arquimedes_darius_dialog_04": "If I took two apples from you, how many would you eat?",
+    "darius_dialog_06": "Three...",
+    "arquimedes_darius_dialog_05": "There you go Darius, that's your answer! When it involves food, do you get it right?",
+    "darius_dialog_07": "DARIUS HATES WHEN PEOPLE STEAL FOOD FROM DARIUS!",
+    "arquimedes_darius_dialog_06": "...",
+
+    "adam_dialog_01": "*Ugh* I think maybe I drank too much...",
+    "arquimedes_adam_dialog_01": "How many times did you... drink?",
+    "adam_dialog_02": "What is 10 multiplied by 20?",
+    "arquimedes_adam_dialog_02": "Did you drink all that?!",
+    "adam_dialog_03": "*Ugh* What?! Who do you think i am? I just wanted to know",
+    "arquimedes_adam_dialog_03": "Ah... it's 200 Adam...",
+    "adam_dialog_04": "Aaah, I must have drunk triple that then..",
+
+    
+
+
+
+    "Pietro_dialog_01": "Ann, I'll kill goblins.",
+    "Pietro_dialog_02": "Escape, it's impossible to defeat them, not even me, a real knight, could do it, they've already taken a large part of Syracuse.",
+    
+    "vincent_dialog_01": "HaHaHa, today's young people can't even use the minimum of mathmagic",
+    "vincent_dialog_02": "If you want to improve, find Isaac, an old friend.",
+    
+    "Balderson_dialog_01": "Arquimedes? He woke up early, it seems.",
+    "Balderson_dialog_02": "Oh... while you're here...",
+    "Balderson_dialog_03": "Have you ever felt a sense of deja vu, or like you were being watched by something you can't see?",
+    "Balderson_dialog_04": "I mean, I don't know, I feel like I've been in that same place and in that same position for...",
+    "Balderson_dialog_05": "...",
+    "Balderson_dialog_06": "Anyway, I must be going crazy. Would you like a drink?",
+
+    "Maria_dialog_01": "Oh, Archimedes!",
+    "Maria_dialog_02": "I didn't expect to see you so early, you usually sleep a lot",
+    "Maria_dialog_03": "Don't mind the dirt, I've been cleaning this place for a while now.",
+    "Maria_dialog_04": "You know how it works, if you want something just say the word.",
+    "Maria_dialog_05": "Now... where did I leave that broom again?",
+    "Maria_dialog_06": "Oh, it's in my hand! Haha... ha... ",
+    "Maria_dialog_07": "... ",
+    "Maria_dialog_08": "I think I should sleep...",
+    
+    "John_dialog_01": "Hey, if it's not going to help, I recommend staying away.",
+    "John_dialog_02": "Not to be rude, but when you're out in the sun for who knows how long doing the same thing, you just get tired, you know?",
+    "John_dialog_03": "I mean, even more so when someone {you} just stares at you while you're doing something. That's weird, man.",
+    
+    "Jazz_dialog_01": "You know, we could play together sometime",
+    "Jazz_dialog_02": "But if your goal in playing is to attract women, forget it, man.",
+    "Jazz_dialog_03": "There's only one musician here who can (touch) a lady's heart, if you know what I mean.",
+
+    "Laplace_dialog_01": "You know, carrying boxes is an art.",
+    "Laplace_dialog_02": "A bard like you wouldn't have the strength to perform that action.",
+    "Laplace_dialog_03": "By the end of spring, my arms will be bigger than your head.",
+    
+    "andressa_dialog_01": "Hello Archimedes, don't you think mathematics is wonderful?",
+    "andressa_dialog_02": "It's everywhere, in your music, in mine flowers, in the birds of the sky, that's fantastic",
+    "andressa_dialog_03": "It's a shame that some people use it for evil.",
+    
+    "dog_dialog_01": "*friendly woof woof*",
+    "dog_dialog_02": "*Another friendly woof woof, only more so*"
+    }

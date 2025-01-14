@@ -1,0 +1,4149 @@
+{
+  "npcs": [
+    {
+      "name": "william",
+      "spawnPointName": "william_spawn",
+      "spriteKey": "william-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 2,
+      "animations": [
+        {
+          "name": "william-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "william_dialog_01",   
+          "name": "william",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "william_dialog_02",   
+          "name": "william",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "william_dialog_03",   
+          "name": "william",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "whitecat",
+      "spawnPointName": "whitecat_spawn",
+      "spriteKey": "whitecat-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 4,
+      "animations": [
+        {
+          "name": "whitecat-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "whitecat_dialog_01",   
+          "name": "whitecat",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "whitecat_dialog_02",   
+          "name": "whitecat",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "whitecat_dialog_03",   
+          "name": "whitecat",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "vithor",
+      "spawnPointName": "vithor_spawn",
+      "spriteKey": "vithor-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 4,
+      "animations": [
+        {
+          "name": "vithor-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "vithor_dialog_01",   
+          "name": "Vithor",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+           "textId": "arquimedes_vithor_dialog_01",   
+          "name": "Arquimedes",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "vithor_dialog_02",   
+          "name": "Vithor",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "vithor_dialog_03",   
+          "name": "Vithor",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+           "textId": "arquimedes_vithor_dialog_02",   
+          "name": "vithor",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "vithor_dialog_04",   
+          "name": "Vithor",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+           "textId": "arquimedes_vithor_dialog_03",   
+          "name": "Arquimedes",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "tomas",
+      "spawnPointName": "tomas_spawn",
+      "spriteKey": "tomas-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 4,
+      "animations": [
+        {
+          "name": "tomas-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "tomas_dialog_01",   
+          "name": "tomas",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "tomas_dialog_02",   
+          "name": "tomas",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "tomas_dialog_03",   
+          "name": "tomas",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "tina",
+      "spawnPointName": "tina_spawn",
+      "spriteKey": "tina-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 4,
+      "animations": [
+        {
+          "name": "tina-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "tina_dialog_01",   
+          "name": "tina",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "tina_dialog_02",   
+          "name": "tina",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "tina_dialog_03",   
+          "name": "tina",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "thorne",
+      "spawnPointName": "thorne_spawn",
+      "spriteKey": "thorne-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 4,
+      "animations": [
+        {
+          "name": "thorne-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "thorne_dialog_01",   
+          "name": "thorne",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "thorne_dialog_02",   
+          "name": "thorne",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "thorne_dialog_03",   
+          "name": "thorne",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "teodoro",
+      "spawnPointName": "teodoro_spawn",
+      "spriteKey": "teodoro-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 4,
+      "animations": [
+        {
+          "name": "teodoro-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "teodoro_dialog_01",   
+          "name": "teodoro",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "teodoro_dialog_02",   
+          "name": "teodoro",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "teodoro_dialog_03",   
+          "name": "teodoro",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "tadeu",
+      "spawnPointName": "tadeu_spawn",
+      "spriteKey": "tadeu-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 4,
+      "animations": [
+        {
+          "name": "tadeu-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "tadeu_dialog_01",   
+          "name": "tadeu",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "tadeu_dialog_02",   
+          "name": "tadeu",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "tadeu_dialog_03",   
+          "name": "tadeu",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "sophie",
+      "spawnPointName": "sophie_spawn",
+      "spriteKey": "sophie-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 4,
+      "animations": [
+        {
+          "name": "sophie-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "sophie_dialog_01",   
+          "name": "sophie",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "sophie_dialog_02",   
+          "name": "sophie",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "sophie_dialog_03",   
+          "name": "sophie",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "simboletta",
+      "spawnPointName": "simboletta_spawn",
+      "spriteKey": "simboletta-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 4,
+      "animations": [
+        {
+          "name": "simboletta-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "simboletta_dialog_01",   
+          "name": "simboletta",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "simboletta_dialog_02",   
+          "name": "simboletta",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "simboletta_dialog_03",   
+          "name": "simboletta",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "selma",
+      "spawnPointName": "selma_spawn",
+      "spriteKey": "selma-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 4,
+      "animations": [
+        {
+          "name": "selma-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "selma_dialog_01",   
+          "name": "selma",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "selma_dialog_02",   
+          "name": "selma",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "selma_dialog_03",   
+          "name": "selma",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "salomao",
+      "spawnPointName": "salomao_spawn",
+      "spriteKey": "salomao-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 4,
+      "animations": [
+        {
+          "name": "salomao-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "salomao_dialog_01",   
+          "name": "salomao",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "salomao_dialog_02",   
+          "name": "salomao",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "salomao_dialog_03",   
+          "name": "salomao",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "rosalind",
+      "spawnPointName": "rosalind_spawn",
+      "spriteKey": "rosalind-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 4,
+      "animations": [
+        {
+          "name": "rosalind-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "rosalind_dialog_01",   
+          "name": "rosalind",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "rosalind_dialog_02",   
+          "name": "rosalind",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "arquimedes_rosalind_dialog_01",   
+          "name": "Arquimedes",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "rosalind_baby",   
+          "name": "Nenê",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "rosalind_dialog_03",   
+          "name": "rosalind",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "arquimedes_rosalind_dialog_02",   
+          "name": "Arquimedes",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "raymond",
+      "spawnPointName": "raymond_spawn",
+      "spriteKey": "raymond-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 4,
+      "animations": [
+        {
+          "name": "raymond-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "raymond_dialog_01",   
+          "name": "raymond",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "raymond_dialog_02",   
+          "name": "raymond",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "raymond_dialog_03",   
+          "name": "raymond",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "ragnar",
+      "spawnPointName": "ragnar_spawn",
+      "spriteKey": "ragnar-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 4,
+      "animations": [
+        {
+          "name": "ragnar-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "ragnar_dialog_01",   
+          "name": "ragnar",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "ragnar_dialog_02",   
+          "name": "ragnar",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "ragnar_dialog_03",   
+          "name": "ragnar",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "rafael",
+      "spawnPointName": "rafael_spawn",
+      "spriteKey": "rafael-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 4,
+      "animations": [
+        {
+          "name": "rafael-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "rafael_dialog_01",   
+          "name": "rafael",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "rafael_dialog_02",   
+          "name": "rafael",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "rafael_dialog_03",   
+          "name": "rafael",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "radian",
+      "spawnPointName": "radian_spawn",
+      "spriteKey": "radian-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 4,
+      "animations": [
+        {
+          "name": "radian-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "radian_dialog_01",   
+          "name": "radian",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "radian_dialog_02",   
+          "name": "radian",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "radian_dialog_03",   
+          "name": "radian",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "poincare",
+      "spawnPointName": "poincare_spawn",
+      "spriteKey": "poincare-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 4,
+      "animations": [
+        {
+          "name": "poincare-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "poincare_dialog_01",   
+          "name": "poincare",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "poincare_dialog_02",   
+          "name": "poincare",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "poincare_dialog_03",   
+          "name": "poincare",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "parabolico",
+      "spawnPointName": "parabolico_spawn",
+      "spriteKey": "parabolico-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 4,
+      "animations": [
+        {
+          "name": "parabolico-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "parabolico_dialog_01",   
+          "name": "parabolico",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "parabolico_dialog_02",   
+          "name": "parabolico",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "parabolico_dialog_03",   
+          "name": "parabolico",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "oscar",
+      "spawnPointName": "oscar_spawn",
+      "spriteKey": "oscar-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 4,
+      "animations": [
+        {
+          "name": "oscar-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "oscar_dialog_01",   
+          "name": "oscar",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "oscar_dialog_02",   
+          "name": "oscar",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "oscar_dialog_03",   
+          "name": "oscar",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "oracio",
+      "spawnPointName": "oracio_spawn",
+      "spriteKey": "oracio-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 4,
+      "animations": [
+        {
+          "name": "oracio-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "oracio_dialog_01",   
+          "name": "oracio",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "oracio_dialog_02",   
+          "name": "oracio",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "oracio_dialog_03",   
+          "name": "oracio",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "oliver",
+      "spawnPointName": "oliver_spawn",
+      "spriteKey": "oliver-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 4,
+      "animations": [
+        {
+          "name": "oliver-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "oliver_dialog_01",   
+          "name": "oliver",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "oliver_dialog_02",   
+          "name": "oliver",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "oliver_dialog_03",   
+          "name": "oliver",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "nora",
+      "spawnPointName": "nora_spawn",
+      "spriteKey": "nora-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 4,
+      "animations": [
+        {
+          "name": "nora-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "nora_dialog_01",   
+          "name": "nora",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "nora_dialog_02",   
+          "name": "nora",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "nora_dialog_03",   
+          "name": "nora",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "noah",
+      "spawnPointName": "noah_spawn",
+      "spriteKey": "noah-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 4,
+      "animations": [
+        {
+          "name": "noah-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "noah_dialog_01",   
+          "name": "noah",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "noah_dialog_02",   
+          "name": "noah",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "noah_dialog_03",   
+          "name": "noah",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "newton",
+      "spawnPointName": "newton_spawn",
+      "spriteKey": "newton-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 4,
+      "animations": [
+        {
+          "name": "newton-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "newton_dialog_01",   
+          "name": "newton",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "newton_dialog_02",   
+          "name": "newton",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "newton_dialog_03",   
+          "name": "newton",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "miguel",
+      "spawnPointName": "miguel_spawn",
+      "spriteKey": "miguel-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 4,
+      "animations": [
+        {
+          "name": "miguel-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "miguel_dialog_01",   
+          "name": "miguel",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "miguel_dialog_02",   
+          "name": "miguel",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "miguel_dialog_03",   
+          "name": "miguel",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "michael",
+      "spawnPointName": "michael_spawn",
+      "spriteKey": "michael-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 4,
+      "animations": [
+        {
+          "name": "michael-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "michael_dialog_01",   
+          "name": "michael",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "michael_dialog_02",   
+          "name": "michael",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "michael_dialog_03",   
+          "name": "michael",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "medionel",
+      "spawnPointName": "medionel_spawn",
+      "spriteKey": "medionel-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 4,
+      "animations": [
+        {
+          "name": "medionel-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "medionel_dialog_01",   
+          "name": "medionel",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "medionel_dialog_02",   
+          "name": "medionel",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "medionel_dialog_03",   
+          "name": "medionel",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "mathson",
+      "spawnPointName": "mathson_spawn",
+      "spriteKey": "mathson-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 4,
+      "animations": [
+        {
+          "name": "mathson-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "mathson_dialog_01",   
+          "name": "mathson",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "mathson_dialog_02",   
+          "name": "mathson",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "mathson_dialog_03",   
+          "name": "mathson",
+          "nameColor": 16776960
+        }
+      ]
+    },
+
+    {
+      "name": "matheus",
+      "spawnPointName": "matheus_spawn",
+      "spriteKey": "matheus-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 4,
+      "animations": [
+        {
+          "name": "matheus-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "matheus_dialog_01",   
+          "name": "matheus",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "matheus_dialog_02",   
+          "name": "matheus",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "matheus_dialog_03",   
+          "name": "matheus",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "marina",
+      "spawnPointName": "marina_spawn",
+      "spriteKey": "marina-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 4,
+      "animations": [
+        {
+          "name": "marina-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "marina_dialog_01",   
+          "name": "marina",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "marina_dialog_02",   
+          "name": "marina",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "marina_dialog_03",   
+          "name": "marina",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "manuel_comida",
+      "spawnPointName": "manuel_comida_spawn",
+      "spriteKey": "manuel_comida-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 4,
+      "animations": [
+        {
+          "name": "-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "manuel_comida_dialog_01",   
+          "name": "manuel",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "manuel_comida_dialog_02",   
+          "name": "manuel",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "manuel_comida_dialog_03",   
+          "name": "manuel",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "manuel",
+      "spawnPointName": "manuel_spawn",
+      "spriteKey": "manuel-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 4,
+      "animations": [
+        {
+          "name": "manuel-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "manuel_dialog_01",   
+          "name": "manuel",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "manuel_dialog_02",   
+          "name": "manuel",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "manuel_dialog_03",   
+          "name": "manuel",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "magnus",
+      "spawnPointName": "magnus_spawn",
+      "spriteKey": "magnus-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 4,
+      "animations": [
+        {
+          "name": "magnus-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "magnus_dialog_01",   
+          "name": "magnus",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "magnus_dialog_02",   
+          "name": "magnus",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "magnus_dialog_03",   
+          "name": "magnus",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "madalena",
+      "spawnPointName": "madalena_spawn",
+      "spriteKey": "madalena-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 4,
+      "animations": [
+        {
+          "name": "madalena-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "madalena_dialog_01",   
+          "name": "madalena",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "madalena_dialog_02",   
+          "name": "madalena",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "madalena_dialog_03",   
+          "name": "madalena",
+          "nameColor": 16776960
+        }
+      ]
+    },
+
+    {
+      "name": "lyra",
+      "spawnPointName": "lyra_spawn",
+      "spriteKey": "lyra-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 4,
+      "animations": [
+        {
+          "name": "lyra-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "lyra_dialog_01",   
+          "name": "lyra",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "lyra_dialog_02",   
+          "name": "lyra",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "lyra_dialog_03",   
+          "name": "lyra",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "luke",
+      "spawnPointName": "luke_spawn",
+      "spriteKey": "luke-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 4,
+      "animations": [
+        {
+          "name": "luke-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "luke_dialog_01",   
+          "name": "luke",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "luke_dialog_02",   
+          "name": "luke",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "luke_dialog_03",   
+          "name": "luke",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "lorena",
+      "spawnPointName": "lorena_spawn",
+      "spriteKey": "lorena-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 4,
+      "animations": [
+        {
+          "name": "lorena-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "lorena_dialog_01",   
+          "name": "lorena",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "lorena_dialog_02",   
+          "name": "lorena",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "lorena_dialog_03",   
+          "name": "lorena",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "lina",
+      "spawnPointName": "lina_spawn",
+      "spriteKey": "lina-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 4,
+      "animations": [
+        {
+          "name": "lina-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "lina_dialog_01",   
+          "name": "lina",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "lina_dialog_02",   
+          "name": "lina",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "lina_dialog_03",   
+          "name": "lina",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "lily",
+      "spawnPointName": "lily_spawn",
+      "spriteKey": "lily-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 4,
+      "animations": [
+        {
+          "name": "lily-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "lily_dialog_01",   
+          "name": "lily",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "lily_dialog_02",   
+          "name": "lily",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "lily_dialog_03",   
+          "name": "lily",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "liam",
+      "spawnPointName": "liam_spawn",
+      "spriteKey": "liam-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 4,
+      "animations": [
+        {
+          "name": "liam-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "liam_dialog_01",   
+          "name": "liam",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "liam_dialog_02",   
+          "name": "liam",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "liam_dialog_03",   
+          "name": "liam",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "legolas",
+      "spawnPointName": "legolas_spawn",
+      "spriteKey": "legolas-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 4,
+      "animations": [
+        {
+          "name": "-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "legolas_dialog_01",   
+          "name": "legolas",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "legolas_dialog_02",   
+          "name": "legolas",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "legolas_dialog_03",   
+          "name": "legolas",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "laura",
+      "spawnPointName": "laura_spawn",
+      "spriteKey": "laura-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 4,
+      "animations": [
+        {
+          "name": "laura-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "laura_dialog_01",   
+          "name": "laura",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "laura_dialog_02",   
+          "name": "laura",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "laura_dialog_03",   
+          "name": "laura",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "lara",
+      "spawnPointName": "lara_spawn",
+      "spriteKey": "lara-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 4,
+      "animations": [
+        {
+          "name": "lara-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "lara_dialog_01",   
+          "name": "lara",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "lara_dialog_02",   
+          "name": "lara",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "lara_dialog_03",   
+          "name": "lara",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "laila",
+      "spawnPointName": "laila_spawn",
+      "spriteKey": "laila-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 4,
+      "animations": [
+        {
+          "name": "laila-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "laila_dialog_01",   
+          "name": "laila",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "laila_dialog_02",   
+          "name": "laila",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "laila_dialog_03",   
+          "name": "laila",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "kael",
+      "spawnPointName": "kael_spawn",
+      "spriteKey": "kael-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 4,
+      "animations": [
+        {
+          "name": "kael-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "kael_dialog_01",   
+          "name": "kael",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "kael_dialog_02",   
+          "name": "kael",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "kael_dialog_03",   
+          "name": "kael",
+          "nameColor": 16776960
+        }
+      ]
+    },
+
+    {
+      "name": "jose",
+      "spawnPointName": "jose_spawn",
+      "spriteKey": "jose-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 4,
+      "animations": [
+        {
+          "name": "jose-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "jose_dialog_01",   
+          "name": "jose",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "jose_dialog_02",   
+          "name": "jose",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "jose_dialog_03",   
+          "name": "jose",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "jeronimo",
+      "spawnPointName": "jeronimo_spawn",
+      "spriteKey": "jeronimo-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 4,
+      "animations": [
+        {
+          "name": "jeronimo-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "jeronimo_dialog_01",   
+          "name": "jeronimo",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "jeronimo_dialog_02",   
+          "name": "jeronimo",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "jeronimo_dialog_03",   
+          "name": "jeronimo",
+          "nameColor": 16776960
+        }
+      ]
+    },
+     {
+      "name": "isaac",
+      "spawnPointName": "isaac_spawn",
+      "spriteKey": "isaac-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 4,
+      "animations": [
+        {
+          "name": "isaac-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "isaac_dialog_01",   
+          "name": "isaac",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "isaac_dialog_02",   
+          "name": "isaac",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "isaac_dialog_03",   
+          "name": "isaac",
+          "nameColor": 16776960
+        }
+      ]
+    },   
+     {
+      "name": "irelene",
+      "spawnPointName": "irelene_spawn",
+      "spriteKey": "irelene-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 4,
+      "animations": [
+        {
+          "name": "irelene-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "irelene_dialog_01",   
+          "name": "irelene",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "irelene_dialog_02",   
+          "name": "irelene",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "irelene_dialog_03",   
+          "name": "irelene",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "inara",
+      "spawnPointName": "inara_spawn",
+      "spriteKey": "inara-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 4,
+      "animations": [
+        {
+          "name": "inara-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "inara_dialog_01",   
+          "name": "inara",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "inara_dialog_02",   
+          "name": "inara",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "inara_dialog_03",   
+          "name": "inara",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "henova",
+      "spawnPointName": "henova_spawn",
+      "spriteKey": "henova-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 4,
+      "animations": [
+        {
+          "name": "henova-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "henova_dialog_01",   
+          "name": "henova",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "henova_dialog_02",   
+          "name": "henova",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "henova_dialog_03",   
+          "name": "henova",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "hans",
+      "spawnPointName": "hans_spawn",
+      "spriteKey": "hans-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 4,
+      "animations": [
+        {
+          "name": "hans-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "hans_dialog_01",   
+          "name": "hans",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "hans_dialog_02",   
+          "name": "hans",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "hans_dialog_03",   
+          "name": "hans",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "hannah",
+      "spawnPointName": "hannah_spawn",
+      "spriteKey": "hannah-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 4,
+      "animations": [
+        {
+          "name": "hannah-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "hannah_dialog_01",   
+          "name": "hannah",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "hannah_dialog_02",   
+          "name": "hannah",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "hannah_dialog_03",   
+          "name": "hannah",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "gideon",
+      "spawnPointName": "gideon_spawn",
+      "spriteKey": "gideon-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 4,
+      "animations": [
+        {
+          "name": "gideon-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "gideon_dialog_01",   
+          "name": "Gideon",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+           "textId": "arquimedes_gideon_dialog_01",   
+          "name": "Arquimedes",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+           "textId": "arquimedes_gideon_dialog_02",   
+          "name": "Arquimedes",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "gideon_dialog_02",   
+          "name": "Gideon",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+           "textId": "arquimedes_gideon_dialog_03",   
+          "name": "Arquimedes",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "gideon_dialog_03",   
+          "name": "Gideon",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+           "textId": "arquimedes_gideon_dialog_04",   
+          "name": "Arquimedes",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "gideon_dialog_04",   
+          "name": "Gideon",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+           "textId": "arquimedes_gideon_dialog_05",   
+          "name": "Arquimedes",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "gideon_dialog_05",   
+          "name": "Gideon",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "geometrina",
+      "spawnPointName": "geometrina_spawn",
+      "spriteKey": "geometrina-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 4,
+      "animations": [
+        {
+          "name": "geometrina-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "geometrina_dialog_01",   
+          "name": "geometrina",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "geometrina_dialog_02",   
+          "name": "geometrina",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "geometrina_dialog_03",   
+          "name": "geometrina",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "geo",
+      "spawnPointName": "geo_spawn",
+      "spriteKey": "geo-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 4,
+      "animations": [
+        {
+          "name": "geo-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "geo_dialog_01",   
+          "name": "geo",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "geo_dialog_02",   
+          "name": "geo",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "geo_dialog_03",   
+          "name": "geo",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "fractalino",
+      "spawnPointName": "fractalino_spawn",
+      "spriteKey": "fractalino-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 4,
+      "animations": [
+        {
+          "name": "fractalino-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "fractalino_dialog_01",   
+          "name": "fractalino",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "fractalino_dialog_02",   
+          "name": "fractalino",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "fractalino_dialog_03",   
+          "name": "fractalino",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "flavio",
+      "spawnPointName": "flavio_spawn",
+      "spriteKey": "flavio-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 4,
+      "animations": [
+        {
+          "name": "flavio-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "flavio_dialog_01",   
+          "name": "flavio",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "flavio_dialog_02",   
+          "name": "flavio",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "flavio_dialog_03",   
+          "name": "flavio",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "feilong",
+      "spawnPointName": "feilong_spawn",
+      "spriteKey": "feilong-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 4,
+      "animations": [
+        {
+          "name": "feilong-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "feilong_dialog_01",   
+          "name": "feilong",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "feilong_dialog_02",   
+          "name": "feilong",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "feilong_dialog_03",   
+          "name": "feilong",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "edson",
+      "spawnPointName": "edson_spawn",
+      "spriteKey": "edson-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 4,
+      "animations": [
+        {
+          "name": "edson-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "edson_dialog_01",   
+          "name": "edson",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "edson_dialog_02",   
+          "name": "edson",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "edson_dialog_03",   
+          "name": "edson",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "dorothy",
+      "spawnPointName": "dorothy_spawn",
+      "spriteKey": "dorothy-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 4,
+      "animations": [
+        {
+          "name": "dorothy-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "dorothy_dialog_01",   
+          "name": "dorothy",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "dorothy_dialog_02",   
+          "name": "dorothy",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "dorothy_dialog_03",   
+          "name": "dorothy",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "darius_Ataque",
+      "spawnPointName": "darius_Ataque_spawn",
+      "spriteKey": "darius_Ataque-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 4,
+      "animations": [
+        {
+          "name": "darius_Ataque-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "darius_Ataque_dialog_01",   
+          "name": "darius",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "darius_Ataque_dialog_02",   
+          "name": "darius",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "darius_Ataque_dialog_03",   
+          "name": "darius",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "darius",
+      "spawnPointName": "darius_spawn",
+      "spriteKey": "darius-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 4,
+      "animations": [
+        {
+          "name": "darius-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "darius_dialog_01",   
+          "name": "Darius",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "darius_dialog_02",   
+          "name": "Darius",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "arquimedes_darius_dialog_01",   
+          "name": "Arquimedes",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "darius_dialog_03",   
+          "name": "Darius",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "arquimedes_darius_dialog_02",   
+          "name": "Arquimedes",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "darius_dialog_04",   
+          "name": "Darius",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "arquimedes_darius_dialog_03",   
+          "name": "Arquimedes",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "darius_dialog_05",   
+          "name": "Darius",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "arquimedes_darius_dialog_04",   
+          "name": "Arquimedes",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "darius_dialog_06",   
+          "name": "Darius",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "arquimedes_darius_dialog_05",   
+          "name": "Arquimedes",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "darius_dialog_07",   
+          "name": "Darius",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "arquimedes_darius_dialog_06",   
+          "name": "Arquimedes",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "dante",
+      "spawnPointName": "dante_spawn",
+      "spriteKey": "dante-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 4,
+      "animations": [
+        {
+          "name": "dante-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "dante_dialog_01",   
+          "name": "dante",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "dante_dialog_02",   
+          "name": "dante",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "dante_dialog_03",   
+          "name": "dante",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "daisy",
+      "spawnPointName": "daisy_spawn",
+      "spriteKey": "daisy-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 4,
+      "animations": [
+        {
+          "name": "daisy-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "daisy_dialog_01",   
+          "name": "daisy",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "daisy_dialog_02",   
+          "name": "daisy",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "daisy_dialog_03",   
+          "name": "daisy",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "cornelia",
+      "spawnPointName": "cornelia_spawn",
+      "spriteKey": "cornelia-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 4,
+      "animations": [
+        {
+          "name": "cornelia-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "cornelia_dialog_01",   
+          "name": "dorothy",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "cornelia_dialog_02",   
+          "name": "dorothy",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "cornelia_dialog_03",   
+          "name": "cornelia",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "clarina_andando",
+      "spawnPointName": "clarina_andando_spawn",
+      "spriteKey": "clarina_andando-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 4,
+      "animations": [
+        {
+          "name": "clarina_andando-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "clarina_andando_dialog_01",   
+          "name": "clarina",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "clarina_andando_dialog_02",   
+          "name": "clarina",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "clarina_andando_dialog_03",   
+          "name": "clarina",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "clarina_urso",
+      "spawnPointName": "clarina_urso_spawn",
+      "spriteKey": "clarina_urso-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 4,
+      "animations": [
+        {
+          "name": "clarina_urso-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "clarina_urso_dialog_01",   
+          "name": "clarina",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "clarina_urso_dialog_02",   
+          "name": "clarina",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "clarina_urso_dialog_03",   
+          "name": "clarina",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "chloe",
+      "spawnPointName": "chloe_spawn",
+      "spriteKey": "chloe-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 4,
+      "animations": [
+        {
+          "name": "chloe-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "chloe_dialog_01",   
+          "name": "chloe",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "chloe_dialog_02",   
+          "name": "chloe",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "chloe_dialog_03",   
+          "name": "chloe",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "catherine",
+      "spawnPointName": "catherine_spawn",
+      "spriteKey": "catherine-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 4,
+      "animations": [
+        {
+          "name": "catherine-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "catherine_dialog_01",   
+          "name": "catherine",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "catherine_dialog_02",   
+          "name": "catherine",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "catherine_dialog_03",   
+          "name": "catherine",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "camila",
+      "spawnPointName": "camila_spawn",
+      "spriteKey": "camila-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 4,
+      "animations": [
+        {
+          "name": "camila-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "camila_dialog_01",   
+          "name": "camila",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "camila_dialog_02",   
+          "name": "camila",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "camila_dialog_03",   
+          "name": "camila",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "benjamin",
+      "spawnPointName": "benjamin_spawn",
+      "spriteKey": "benjamin-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 4,
+      "animations": [
+        {
+          "name": "benjamin-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "benjamin_dialog_01",   
+          "name": "benjamin",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "benjamin_dialog_02",   
+          "name": "benjamin",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "benjamin_dialog_03",   
+          "name": "benjamin",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "baribaldo",
+      "spawnPointName": "baribaldo_spawn",
+      "spriteKey": "baribaldo-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 4,
+      "animations": [
+        {
+          "name": "baribaldo-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "baribaldo_dialog_01",   
+          "name": "baribaldo",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "baribaldo_dialog_02",   
+          "name": "baribaldo",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "baribaldo_dialog_03",   
+          "name": "baribaldo",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "augusto",
+      "spawnPointName": "augusto_spawn",
+      "spriteKey": "augusto-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 4,
+      "animations": [
+        {
+          "name": "-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "augusto_dialog_01",   
+          "name": "augusto",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "augusto_dialog_02",   
+          "name": "augusto",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "augusto_dialog_03",   
+          "name": "augusto",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "amir",
+      "spawnPointName": "amir_spawn",
+      "spriteKey": "amir-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 4,
+      "animations": [
+        {
+          "name": "amir-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "amir_dialog_01",   
+          "name": "amir",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "amir_dialog_02",   
+          "name": "amir",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "amir_dialog_03",   
+          "name": "amir",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "alvoro",
+      "spawnPointName": "alvoro_spawn",
+      "spriteKey": "alvoro-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 4,
+      "animations": [
+        {
+          "name": "alvoro-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "alvoro_dialog_01",   
+          "name": "alvoro",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "alvoro_dialog_02",   
+          "name": "alvoro",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "alvoro_dialog_03",   
+          "name": "alvoro",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "algebrina",
+      "spawnPointName": "algebrina_spawn",
+      "spriteKey": "algebrina-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 4,
+      "animations": [
+        {
+          "name": "algebrina-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "algebrina_dialog_01",   
+          "name": "algebrina",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "algebrina_dialog_02",   
+          "name": "algebrina",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "algebrina_dialog_03",   
+          "name": "algebrina",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "alfred_com_plato",
+      "spawnPointName": "alfred_com_plato_spawn",
+      "spriteKey": "alfred_com_plato-walking",
+      "pathName": null,
+      "canMove": false,
+      "speed": 4,
+      "animations": [
+        {
+          "name": "alfred_com_plato-walking",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "alfred_com_plato_dialog_01",   
+          "name": "alfred com plato",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "alfred_com_plato_dialog_02",   
+          "name": "alfred com plato",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "alfred_com_plato_dialog_03",   
+          "name": "alfred com plato",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "alfred",
+      "spawnPointName": "alfred_spawn",
+      "spriteKey": "alfred-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 4,
+      "animations": [
+        {
+          "name": "alfred-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "alfred_dialog_01",   
+          "name": "alfred",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "alfred_dialog_02",   
+          "name": "alfred",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "alfred_dialog_03",   
+          "name": "alfred",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "alex",
+      "spawnPointName": "alex_spawn",
+      "spriteKey": "alex-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 2,
+      "animations": [
+        {
+          "name": "alex-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "alex_dialog_01",   
+          "name": "alex",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "alex_dialog_02",   
+          "name": "alex",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "alex_dialog_03",   
+          "name": "alex",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "alcides",
+      "spawnPointName": "alcides_spawn",
+      "spriteKey": "alcides-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 2,
+      "animations": [
+        {
+          "name": "alcides-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "alcides_dialog_01",   
+          "name": "alcides",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "alcides_dialog_02",   
+          "name": "alcides",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "alcides_dialog_03",   
+          "name": "alcides",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "aisha",
+      "spawnPointName": "aisha_spawn",
+      "spriteKey": "aisha-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 2,
+      "animations": [
+        {
+          "name": "aisha-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "aisha_dialog_01",   
+          "name": "aisha",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "aisha_dialog_02",   
+          "name": "aisha",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "aisha_dialog_03",   
+          "name": "aisha",
+          "nameColor": 16776960
+        }
+      ]
+    },
+     {
+      "name": "agnes",
+      "spawnPointName": "agnes_spawn",
+      "spriteKey": "agnes-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 2,
+      "animations": [
+        {
+          "name": "agnes-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "agnes_dialog_01",   
+          "name": "agnes",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "agnes_dialog_02",   
+          "name": "agnes",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "agnes_dialog_03",   
+          "name": "agnes",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "adimetica",
+      "spawnPointName": "adimetica_spawn",
+      "spriteKey": "adimetica-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 2,
+      "animations": [
+        {
+          "name": "adimetica-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "adimetica_dialog_01",   
+          "name": "adimetica",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "adimetica_dialog_02",   
+          "name": "adimetica",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "adimetica_dialog_03",   
+          "name": "adimetica",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "adam",
+      "spawnPointName": "adam_spawn",
+      "spriteKey": "adam-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 2,
+      "animations": [
+        {
+          "name": "adam-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "adam_dialog_01",   
+          "name": "Adam",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+           "textId": "arquimedes_adam_dialog_01",   
+          "name": "Arquimedes",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "adam_dialog_02",   
+          "name": "Adam",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+           "textId": "arquimedes_adam_dialog_02",   
+          "name": "Arquimedes",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "adam_dialog_03",   
+          "name": "Adam",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+           "textId": "arquimedes_adam_dialog_03",   
+          "name": "Arquimedes",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "adam_dialog_04",   
+          "name": "Adam",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "teobauto",
+      "spawnPointName": "teobalto_spawn",
+      "spriteKey": "teobauto-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 2,
+      "animations": [
+        {
+          "name": "teobauto-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "teobauto_dialog_01",   
+          "name": "teobauto",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "teobauto_dialog_02",   
+          "name": "teobauto",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "teobauto_dialog_03",   
+          "name": "teobauto",
+          "nameColor": 16776960
+        }
+      ]
+    },
+      {
+      "name": "eva",
+      "spawnPointName": "eva_spawn",
+      "spriteKey": "eva-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 2,
+      "animations": [
+        {
+          "name": "eva-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "eva_dialog_01",   
+          "name": "eva",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "eva_dialog_02",   
+          "name": "eva",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "eva_dialog_03",   
+          "name": "eva",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "clara",
+      "spawnPointName": "clara_spawn",
+      "spriteKey": "clara-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 2,
+      "animations": [
+        {
+          "name": "clara-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "clara_dialog_01",   
+          "name": "clara",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "clara_dialog_02",   
+          "name": "clara",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "clara_dialog_03",   
+          "name": "clara",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "maximo",
+      "spawnPointName": "maximo_spawn",
+      "spriteKey": "maximo-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 2,
+      "animations": [
+        {
+          "name": "maximo-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "maximo_dialog_01",   
+          "name": "maximo",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "maximo_dialog_02",   
+          "name": "maximo",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "maximo_dialog_03",   
+          "name": "maximo",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "raizela",
+      "spawnPointName": "razyela_spawn",
+      "spriteKey": "raizela-idle",
+      "pathName": null,
+      "canMove": false,
+      "speed": 2,
+       "animations": [
+        {
+          "name": "raizela-idle",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "raizela_dialog_01",   
+          "name": "raizela",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "raizela_dialog_02",   
+          "name": "raizela",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "raizela_dialog_03",   
+          "name": "raizela",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "richard",
+      "spawnPointName": "richard_spawn",
+      "spriteKey": "richard-walking",
+      "pathName": "richard_path",
+      "canMove": true,
+      "speed": 2,
+      "animations": [
+        {
+          "name": "richard-walking",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "richard_dialog_01",   
+          "name": "Richard",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "richard_dialog_02",   
+          "name": "Richard",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "richard_dialog_03",   
+          "name": "Richard",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "bento",
+      "spawnPointName": "bento_spawn",
+      "spriteKey": "bento-walking",
+      "pathName": "bento_path",
+      "canMove": true,
+      "speed": 2,
+      "animations": [
+        {
+          "name": "bento-walking",
+          "start": 0,
+          "end": 2,
+          "frameRate": 4,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+          "textId": "Bento_dialog_01",   
+           "name": "Bento",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+           "textId": "Bento_dialog_02",   
+         "name": "Bento",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "Bento_dialog_03",   
+           "name": "Bento",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "Bento_dialog_04",   
+          "name": "Bento",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "pietro",
+      "spawnPointName": "pietro_spawn",
+      "spriteKey": "pietro-defeated",
+      "pathName": "",
+      "canMove": false,
+      "speed": 2,
+      "animations": [
+        {
+          "name": "pietro-defeated",
+          "start": 0,
+          "end": 2,
+          "frameRate": 1,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+          "textId": "Pietro_dialog_01",   
+          "name": "Pietro",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "Pietro_dialog_02",   
+          "name": "Pietro",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "ethan",
+      "spawnPointName": "ethan_spawn",
+      "spriteKey": "ethan-walking",
+      "pathName": "ethan_path",
+      "canMove": true,
+      "speed": 2,
+      "animations": [
+        {
+          "name": "ethan-walking",
+          "start": 0,
+          "end": 2,
+          "frameRate": 6,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+          "textId": "Ethan_dialog_01",   
+          "name": "Ethan",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "Ethan_dialog_02",   
+          "name": "Ethan",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "vincent",
+      "spawnPointName": "vincent_spawn",
+      "spriteKey": "vincent-moving",  
+      "pathName": "vincent_path",
+      "canMove": true,
+      "speed": 2,
+     "animations": [
+        {
+          "name": "vincent-moving",
+          "start": 0,
+          "end": 2,
+          "frameRate": 6,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+          "textId": "vincent_dialog_01",   
+          "name": "vincent",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "vincent_dialog_02",   
+           "name": "vincent",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "balderson",
+      "spawnPointName": "balderson_spawn",
+      "spriteKey": "balderson-sweep",
+      "pathName": "balderson_path",
+      "canMove": false,
+      "speed": 2,
+      "animations": [
+        {
+          "name": "balderson-sweep",
+          "start": 0,
+          "end": 2,
+          "frameRate": 6,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+          "textId": "Balderson_dialog_01",   
+          "name": "Balderson",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "Balderson_dialog_02",   
+         "name": "Balderson",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "Balderson_dialog_03",   
+           "name": "Balderson",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "Balderson_dialog_04",   
+          "name": "Balderson",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "Balderson_dialog_05",   
+          "name": "Balderson",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "Balderson_dialog_06",   
+          "name": "Balderson",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "maria",
+      "spawnPointName": "maria_spawn",
+      "spriteKey": "maria-sweep",
+      "pathName": "maria_path",
+      "canMove": false,
+      "speed": 2,
+      "animations": [
+        {
+          "name": "maria-sweep",
+          "start": 0,
+          "end": 2,
+          "frameRate": 6,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+           "textId": "Maria_dialog_01",   
+           "name": "Maria",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "Maria_dialog_02",   
+          "name": "Maria",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "Maria_dialog_03",   
+          "name": "Maria",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "Maria_dialog_04", 
+          "name": "Maria",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "Maria_dialog_05",   
+          "name": "Maria",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "Maria_dialog_06",   
+          "name": "Maria",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "Maria_dialog_07",   
+          "name": "Maria",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "Maria_dialog_08",   
+          "name": "Maria",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "john",
+      "spawnPointName": "john-spawn",
+      "spriteKey": "john-cutting",
+       "pathName": "john-path",
+      "canMove": true,
+      "speed": 2,
+      "animations": [
+        {
+          "name": "john-cutting",
+          "start": 0,
+          "end": 2,
+          "frameRate": 6,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+         "dialogList": [
+        {
+          "isDialog": true,
+          "textId": "John_dialog_01",  
+          "name": "John",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "John_dialog_02",  
+          "text": "",
+          "name": "John",
+          "nameColor": 16776960,
+          "textIsDynamic": true,
+          "specialTextShaking": true
+        },
+        {
+          "isDialog": true,
+          "textId": "John_dialog_03",  
+          "text": "",
+          "name": "John",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "dog",
+      "spawnPointName": "dog_spawn",
+      "spriteKey": "dog-itching",
+       "pathName": "dog_path",
+      "canMove": false,
+      "speed": 2,
+      "animations": [
+        {
+          "name": "dog-itching",
+          "start": 0,
+          "end": 2,
+          "frameRate": 6,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ], 
+    
+      "dialogList": [
+        {
+          "isDialog": true,
+          "textId": "dog_dialog_01",  
+          "name": "Dog",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "dog_dialog_02",
+          "name": "Dog",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "andressa",
+      "spawnPointName": "andressa_spawn",
+      "spriteKey": "andressa-picking",
+      "pathName": null,
+      "canMove": false,
+      "speed": 2,
+       "animations": [
+        {
+          "name": "andressa-picking",
+          "start": 0,
+          "end": 2,
+          "frameRate": 1,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+          "textId": "andressa_dialog_01",
+          "name": "andressa",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "arquimedes_andressa_dialog_01",
+          "name": "arquimedes",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "andressa_dialog_02",
+          "name": "andressa",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "arquimedes_andressa_dialog_02",
+          "name": "arquimedes",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "andressa_dialog_03",
+          "name": "andressa",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "arquimedes_andressa_dialog_03",
+          "name": "arquimedes",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "andressa_dialog_04",
+           "name": "andressa",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "laplace",
+      "spawnPointName": "laplace_spawn",
+      "spriteKey": "laplace-carrying",
+      "pathName": "laplace_path",
+      "canMove": true,
+      "speed": 2,
+      "animations": [
+        {
+          "name": "laplace-carrying",
+          "start": 0,
+          "end": 2,
+          "frameRate": 6,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+      "dialogList": [
+        {
+          "isDialog": true,
+          "textId": "Laplace_dialog_01",
+          "name": "Laplace",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "Laplace_dialog_02",
+           "name": "Laplace",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "Laplace_dialog_03",
+           "name": "Laplace",
+          "nameColor": 16776960
+        }
+      ]
+    },
+    {
+      "name": "jazz",
+      "spawnPointName": "jazz-spawn",
+      "spriteKey": "jazz-playing",
+      "pathName": "jazz-path",
+      "canMove": false,
+      "speed": 2,
+      "animations": [
+        {
+          "name": "jazz-playing",
+          "start": 0,
+          "end": 2,
+          "frameRate": 6,
+          "repeat": -1,
+          "yoyo": true
+        }
+      ],
+  
+      "dialogList": [
+        {
+          "isDialog": true,
+          "textId": "Jazz_dialog_01",
+           "name": "Jazz",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "Jazz_dialog_02",
+          "name": "Jazz",
+          "nameColor": 16776960
+        },
+        {
+          "isDialog": true,
+          "textId": "Jazz_dialog_03",
+          "name": "Jazz",
+          "nameColor": 16776960
+        }
+      ]
+    }
+  ]
+}

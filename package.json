@@ -1,0 +1,44 @@
+{
+    "name": "template-esbuild",
+    "description": "A Phaser 3 template using esbuild.",
+    "version": "1.2.0",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "dev": "concurrently \"node esbuild/dev.server.js -w\" \"node src/database/sqlite.js\"",
+        "build": "node esbuild/build.prod.js"
+    },
+    "author": "Phaser Studio <support@phaser.io> (https://phaser.io/)",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/phaserjs/template-esbuild.git"
+    },
+    "bugs": {
+        "url": "https://github.com/phaserjs/template-esbuild/issues"
+    },
+    "homepage": "https://github.com/phaserjs/template-esbuild#readme",
+    "license": "MIT",
+    "dependencies": {
+        "concurrently": "^9.1.0",
+        "cors": "^2.8.5",
+        "express": "^4.21.1",
+        "grid-engine": "^2.46.0",
+        "i18next": "^23.16.2",
+        "i18next-http-backend": "^2.6.2",
+        "phaser": "^3.80.1",
+        "phaser-animated-tiles": "^2.0.2",
+        "phaser-font-plugin": "^0.1.1",
+        "phaser-ui-tools": "^2.0.0-beta",
+        "phaser3-nineslice": "^0.3.7",
+        "sqlite3": "^5.1.7"
+    },
+    "devDependencies": {
+        "@azerion/phaser-i18next": "^1.0.3",
+        "@jgoz/esbuild-plugin-livereload": "^2.0.5",
+        "esbuild": "^0.21.2",
+        "esbuild-plugin-clean": "^1.0.1",
+        "esbuild-plugin-copy": "^2.1.1",
+        "esbuild-plugin-inline-image": "^0.0.9",
+        "esbuild-serve": "^1.0.1"
+    }
+}

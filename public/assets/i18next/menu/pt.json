@@ -1,0 +1,31 @@
+{
+    "DialogInicial": "Ann, que tremor é esse?.",
+     "START": "COMEÇAR",
+     "SETTING": "CONFIG",
+    "CREDITS": "CRÉDITOS",
+    "SETTINGS": "Configurações",
+
+    "Back": "voltar", 
+
+    "VOLUME": "Volume",
+    "IDIOMS": "Idiomas",
+    "VIDEO": "Vídeo",
+
+    "PORTUGUESE": "Português",
+    "SPANISH": "Espanhol",
+    "ENGLISH (USA)": "Inglês (EUA)",
+
+    "DALTONISM": "DALTONISMO",
+
+   "Deuteranopia": "Deuteranopía",
+    "Protanopia": "Protanopía",
+    "Tritanopia": "Tritanopía",
+    "Monocromacia": "Monocromía",
+    "No Filter": "Sem filtro",
+
+    "general": "Geral",
+    "music": "Músicas",
+    "creatures": "Criaturas"
+   
+}
+
