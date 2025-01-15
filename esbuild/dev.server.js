@@ -9,5 +9,5 @@ esbuildServe(
         outfile: "public/bundle.min.js",
         plugins: [ inlineImage() ]
     },
-    { root: "public", port: process.env.PORT || 3000 },
+    { root: "public", port: 3000 },
 );
