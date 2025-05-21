@@ -5,7 +5,7 @@
 <a id="portugues"></a>
 ## A Ruína de Arquimedes
 <p align="center">
-  <img src="https://github.com/TheRodrig0/A-ruina-de-Arquimedes/assets/86856395/1569878d-abf3-4308-b18c-bd0c800ff663" alt="manual de identidade (1) (1)">
+    <img src="https://github.com/user-attachments/assets/7734a174-82e7-47be-a930-ec699a3feeba"
 </p>
 
 
@@ -42,7 +42,8 @@ math is the key to power and wisdom. Welcome to your journey, where each step re
 
 - **HTML**: A markup language used to to build websites.
 - **CSS**: Style language used to style websties.
-- **JavaScript**: Programming language commonly used on web to build animations and more complex features.
+- **JavaScript**: Programming language commonly u!
+sed on web to build animations and more complex features.
 - **Phaser 3**: A JavaScript framework that focuses on facilitating the creation of web games.
 
 ## Credits
