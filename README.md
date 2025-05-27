@@ -3,14 +3,14 @@
 - [English](#ingles)
 
 <a id="portugues"></a>
-## A Ruína de Arquimedes
+## A Ruina de Arquimedes V_L_E
 <p align="center">
     <img src="https://github.com/user-attachments/assets/7734a174-82e7-47be-a930-ec699a3feeba"
 </p>
 
 
 ## Sobre
-Embarque na misteriosa jornada de ‘A Ruína de Arquimedes’, um RPG deslumbrante, criado com a poderosa tecnologia Phaser 3. Neste mundo imersivo e interativo, a matemática não é apenas uma ciência, mas uma magia poderosa que permeia o tecido da realidade. Arquimedes, nosso corajoso protagonista, é o mestre dessa magia. Com cada enigma matemático resolvido, ele desvenda os segredos ocultos deste mundo de fantasia. Junte-se a Arquimedes nesta aventura épica e explore as profundezas de um universo onde a matemática é a chave para o poder e a sabedoria. Seja bem-vindo à sua jornada, onde cada passo revela um novo mistério aguardando para ser descoberto.
+Embarque na misteriosa jornada de ‘A Ruina de Arquimedes V_L_E’, um RPG deslumbrante, criado com a poderosa tecnologia Phaser 3. Neste mundo imersivo e interativo, a matemática não é apenas uma ciência, mas uma magia poderosa que permeia o tecido da realidade. Arquimedes, nosso corajoso protagonista, é o mestre dessa magia. Com cada enigma matemático resolvido, ele desvenda os segredos ocultos deste mundo de fantasia. Junte-se a Arquimedes nesta aventura épica e explore as profundezas de um universo onde a matemática é a chave para o poder e a sabedoria. Seja bem-vindo à sua jornada, onde cada passo revela um novo mistério aguardando para ser descoberto.
 
 ## Tecnologias Utilizadas
 - **HTML**: Uma linguagem de marcação usada para construir sites.
@@ -26,7 +26,7 @@ Embarque na misteriosa jornada de ‘A Ruína de Arquimedes’, um RPG deslumbra
 <hr>
 
 <a id="ingles"></a>
-# The Doom of Arquimedes
+# The Doom of Arquimedes V_L_E
 
 <p align="center">
     <img src="https://github.com/Rafael-Perondi/A-ruina-de-Arquimedes_REFEITO/assets/159496674/ea5c3d7f-bdad-48ba-8b83-2daa9e253f95"
@@ -35,7 +35,7 @@ Embarque na misteriosa jornada de ‘A Ruína de Arquimedes’, um RPG deslumbra
 
 ## What is about
 
-Embark on the misterious journey of "The Doom of Arquimedes", a gorgeous RPG, made by a powerful tecnology called Phaser 3. In this interactive and immersive world, math is not just a science, but a powerful magic wich permeates the fabric of reality. Arquimedes, our brave protagonist, is the master of this magic. With each mathemathical puzzle solved, he unveils the most occult secrets of this fantasy world. Join Arquimedes in this epic journey and explore the depths of a universe where 
+Embark on the misterious journey of "The Doom of Arquimedes V_L_E", a gorgeous RPG, made by a powerful tecnology called Phaser 3. In this interactive and immersive world, math is not just a science, but a powerful magic wich permeates the fabric of reality. Arquimedes, our brave protagonist, is the master of this magic. With each mathemathical puzzle solved, he unveils the most occult secrets of this fantasy world. Join Arquimedes in this epic journey and explore the depths of a universe where 
 math is the key to power and wisdom. Welcome to your journey, where each step reveals a new mistery awaiting to be discovered. 
 
 ## Tecnologies Used
